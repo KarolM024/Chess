@@ -1,0 +1,3 @@
+Rozszeżenia projektu: 
+-npm install ws
+-npm install --save-optional bufferutil
